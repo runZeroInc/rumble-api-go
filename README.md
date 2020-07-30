@@ -1,8 +1,10 @@
-# Rumble Network Discovery API
+# Rumble Network Discovery API - Go
 
-This repository contains a copy of the Rumble OpenAPI Specification (v3) and related files.
+This repository contains a copy of the Rumble OpenAPI for Go.
 
 Interactive documentation can be found at https://app.swaggerhub.com/apis-docs/RumbleDiscovery/Rumble
+
+The source YAML for the API can be found at https://github.com/RumbleDiscovery/rumble-api
 
 The OpenAPI generator can be used to create client stubs for most languages:
  - https://openapi-generator.tech/
