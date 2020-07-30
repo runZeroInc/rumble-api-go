@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	rc "github.com/RumbleDiscovery/rumble-api/go/rumble-client"
+	rc "github.com/RumbleDiscovery/rumble-api-go/rumble-client"
 )
 
 func main() {

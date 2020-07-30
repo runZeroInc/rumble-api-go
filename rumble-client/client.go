@@ -3,7 +3,7 @@ package client
 import (
 	"os"
 
-	rapi "github.com/RumbleDiscovery/rumble-api/go"
+	rapi "github.com/RumbleDiscovery/rumble-api-go"
 )
 
 // Config provides overrides the API host and key
