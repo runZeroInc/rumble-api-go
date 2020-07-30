@@ -1,4 +1,4 @@
-# Go API client for openapi
+# Go API client for Rumble Network Discovery
 
 Rumble Network Discovery API
 
